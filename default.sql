@@ -15,7 +15,7 @@ CREATE TABLE `template` (
 ) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
 
 INSERT INTO `template` VALUES ('1', 'python', 'flask', '2018-01-26 01:46:36');
-INSERT INTO `template` VALUES ('1', 'golang', 'beego', '2018-01-26 01:46:36');
-INSERT INTO `template` VALUES ('1', 'java', 'spring', '2018-01-26 01:46:36');
-INSERT INTO `template` VALUES ('1', 'nodejs', 'express', '2018-01-26 01:46:36');
-INSERT INTO `template` VALUES ('1', 'php', 'laravel', '2018-01-26 01:46:36');
+INSERT INTO `template` VALUES ('2', 'golang', 'beego', '2018-01-26 01:46:36');
+INSERT INTO `template` VALUES ('3', 'java', 'spring', '2018-01-26 01:46:36');
+INSERT INTO `template` VALUES ('4', 'nodejs', 'express', '2018-01-26 01:46:36');
+INSERT INTO `template` VALUES ('5', 'php', 'laravel', '2018-01-26 01:46:36');
